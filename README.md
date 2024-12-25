@@ -1,2 +1,3 @@
 # Mern-Docker-App
-creating app using  mern or docker......
+creating app using  mern or docker or docker-compose
+
